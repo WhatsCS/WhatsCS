@@ -8,4 +8,5 @@
 - 💬 Ask me about reverse engineering and graphics programming
 - 📫 How to reach me: discord, email, carrier pidgeon, etc.
 - ⚡ Fun fact: player of multiple instruments, GAmEr
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=whatscs)](https://github.com/anuraghazra/github-readme-stats)
