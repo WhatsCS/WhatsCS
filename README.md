@@ -9,4 +9,6 @@
 - 📫 How to reach me: discord, email, carrier pidgeon, etc.
 - ⚡ Fun fact: player of multiple instruments, ViDeO GAmEr
 
+![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=whatscs&count_private=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whatscs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
