@@ -4,8 +4,8 @@
 **WhatsCS/WhatsCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 - 🔭 I’m currently working on nothing outside of work :(
-- 🌱 I’m currently learning Javascript, Rust, OpenGL, reverse engineering
-- 💬 Ask me about reverse engineering and graphics programming
+- 🌱 I’m currently learning K8S, Ansible, QEMU and HashiCorp's Packer
+- 💬 Ask me about Linux and Games for unhelpful advice.
 - 📫 How to reach me: discord, email, carrier pidgeon, etc.
 - ⚡ Fun fact: player of multiple instruments, ViDeO GAmEr
 
